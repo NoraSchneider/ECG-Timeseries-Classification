@@ -3,7 +3,7 @@
 This repository contains different deep learning models for classifying ECG time series. 
 Our models are trained and tested on the well-known [MIT-BIH Arrythmia Database](https://physionet.org/physiobank/database/mitdb/) and 
 on the [PTB Diagnostic ECG Database](https://physionet.org/content/ptbdb/1.0.0/). For a detailed discussion of the 
-models and their performances on the given data we refer to the written report. 
+models and their performances on the given data we refer to the written [report](https://github.com/NoraSchneider/ECG-Timeseries-Classification/blob/master/Report.pdf). 
 
 ***
 ## Getting started
